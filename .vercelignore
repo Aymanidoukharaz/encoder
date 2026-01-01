@@ -1,0 +1,5 @@
+encoder/__pycache__/
+.venv/
+*.pyc
+*.log
+.DS_Store
